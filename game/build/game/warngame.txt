@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, H:\pygui\game\game.py
+missing module named posix - imported by os, H:\pygui\game\game.py
+missing module named _posixsubprocess - imported by subprocess, H:\pygui\game\game.py
+missing module named org - imported by pickle, H:\pygui\game\game.py
+missing module named readline - imported by cmd, code, pdb, H:\pygui\game\game.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, H:\pygui\game\game.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, H:\pygui\game\game.py
+missing module named _winreg - imported by platform, H:\pygui\game\game.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, H:\pygui\game\game.py
+missing module named 'java.lang' - imported by platform, H:\pygui\game\game.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, H:\pygui\game\game.py
+missing module named termios - imported by tty, H:\pygui\game\game.py, getpass
+missing module named grp - imported by shutil, tarfile, H:\pygui\game\game.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, H:\pygui\game\game.py, netrc, getpass
+missing module named 'org.python' - imported by copy, H:\pygui\game\game.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, H:\pygui\game\game.py
